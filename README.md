@@ -5,7 +5,7 @@ Eu sou <strong>Vinicius Galvão </strong>, <strong> </strong> 👨🏻‍💻
 - 🚀 Atualmente estou Cursando: <strong>Analise e Desenvolvimento de Sistema</strong>
 - 
 - 💬 Pergunte-me sobre: <strong></strong>
-- 📣 Posso falar: <strong>Seus Idiomas</strong>
+- 📣 Posso falar: <strong>Inglês</strong>
 
 <div align="center">
 
